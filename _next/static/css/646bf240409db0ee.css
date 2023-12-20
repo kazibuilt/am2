@@ -133,7 +133,7 @@
   margin-bottom: 0;
 }
 .block-content_default h2 {
-  font-family: Aeonik, sans-serif;
+  font-family: Regola-book, sans-serif;
   font-size: 2rem;
   font-weight: 400;
   line-height: 110%;
@@ -147,7 +147,7 @@
     letter-spacing: normal;
   }
   .popup .block-content_default h2 {
-    font-family: Aeonik, sans-serif;
+    font-family: Regola-book, sans-serif;
     font-size: 2.6rem;
     font-weight: 400;
     line-height: 107.692%;
@@ -167,7 +167,7 @@
 .popup .block-content_default h3 {
   margin-top: 7.2rem;
   margin-bottom: 2.5rem;
-  font-family: Aeonik, sans-serif;
+  font-family: Regola-book, sans-serif;
   font-size: 2rem;
   font-weight: 400;
   line-height: 130%;
@@ -654,7 +654,7 @@ video {
   line-height: 112%;
 }
 .body-36 {
-  font-family: Aeonik, sans-serif;
+  font-family: Regola-book, sans-serif;
   font-size: 2.8rem;
   line-height: 97%;
   letter-spacing: -0.01em;
@@ -665,7 +665,7 @@ video {
   }
 }
 .body-28 {
-  font-family: Aeonik, sans-serif;
+  font-family: Regola-book, sans-serif;
   font-size: 2.2rem;
   line-height: 93%;
   letter-spacing: -0.02em;
@@ -680,7 +680,7 @@ video {
   line-height: 133%;
 }
 .body-16 {
-  font-family: Aeonik, sans-serif;
+  font-family: Regola-book, sans-serif;
   font-size: clamp(14px, 1.4rem, 18px);
   line-height: 157%;
 }
@@ -698,14 +698,14 @@ video {
 }
 .body-14,
 .body-15 {
-  font-family: Aeonik, sans-serif;
+  font-family: Regola-book, sans-serif;
 }
 .body-14 {
   font-size: clamp(14px, 1.4rem, 18px);
   line-height: 157%;
 }
 .body-10 {
-  font-family: Aeonik, sans-serif;
+  font-family: Regola-book, sans-serif;
   line-height: 180%;
   letter-spacing: 0.07em;
 }
@@ -2707,7 +2707,7 @@ video {
   font-family: Arial;
 }
 .font-body {
-  font-family: Aeonik, sans-serif;
+  font-family: Regola-book, sans-serif;
 }
 .font-body-mono {
   font-family: Aeonik Fono, sans-serif;
@@ -3159,7 +3159,7 @@ body {
   --tw-bg-opacity: 1;
   background-color: rgb(var(--color-white) / var(--tw-bg-opacity));
   padding: 0;
-  font-family: Aeonik, sans-serif;
+  font-family: Regola-book, sans-serif;
   font-size: 1.2rem;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -3285,7 +3285,7 @@ ul {
     }
   }
   .md\:body-22 {
-    font-family: Aeonik, sans-serif;
+    font-family: Regola-book, sans-serif;
     font-size: clamp(13px, 1.6rem, 20px);
     line-height: 125%;
     letter-spacing: -0.022rem;
